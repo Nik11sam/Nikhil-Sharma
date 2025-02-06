@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nik11sam&label=Profile%20views&color=0e75b6&style=flat" alt="nik11sam" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, ReactJs, Blockchain Technology**
+- 🌱 I’m currently learning **Data Analytics **
 <br>
 - 📫 How to reach me **nikhilsharma882407@gmail.com**
 
